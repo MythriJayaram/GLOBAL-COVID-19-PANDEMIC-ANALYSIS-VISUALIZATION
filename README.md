@@ -2,7 +2,7 @@
 
 ### COVID-19 Interactive Visualization: Dynamic Choropleth Map & 3D Globe
 
-This project offers an **interactive visualization tool** to explore COVID-19 data globally. The tool features **dynamic choropleth maps** and a **3D globe**, enabling users to track and analyze the progression of the pandemic over time.
+This project offers an **Interactive dashboard visualizatio** to explore COVID-19 data globally. The tool features **dynamic choropleth maps** and a **3D globe**, enabling users to track and analyze the progression of the pandemic over time.
 
 #### Key Features:
 
