@@ -25,11 +25,10 @@ This project offers an **Interactive dashboard visualizatio** to explore COVID-1
   The tool is optimized for both **desktop** and **mobile devices**, ensuring an engaging experience across all screen sizes.
 
 #### Technologies Used:
-**D3.js** (v7)
-**TopoJSON**
-**D3-Geo-Projections**
-**HTML5**, **CSS3**, **JavaScript**
-**CSV** and **GeoJSON** data formats
+- **D3.js** (v7)
+- **TopoJSON**
+- **HTML5**, **CSS3**, **JavaScript**
+- **CSV** and **GeoJSON** data formats
 
 #### Project Purpose:
 This project aims to provide an intuitive, interactive platform for understanding the global impact of COVID-19. By combining **data visualization** with **geographical insights**, it helps make complex pandemic data more accessible, engaging, and meaningful for users worldwide.
