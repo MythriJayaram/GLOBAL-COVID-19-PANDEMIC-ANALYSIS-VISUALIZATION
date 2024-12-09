@@ -15,12 +15,11 @@ const path = d3.geoPath().projection(projection);
 
 const globe = svg.append("g");
 
-// Remove the blue globe background (sky blue)
 globe.append("circle")
     .attr("cx", width / 2)
     .attr("cy", height / 2)
     .attr("r", projection.scale())
-    .attr("fill", "none"); // Just make it transparent
+    .attr("fill", "none");
 
 // Initialize variables for COVID data
 let covidMap = new Map();
